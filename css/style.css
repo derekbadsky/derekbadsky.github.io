@@ -37,6 +37,10 @@ p {
 	letter-spacing: normal;
 	line-height: 22px;
 }
+a {
+	color: #b35342;
+	text-decoration: none;
+}
 #contentWrapper {
 	padding: 0 0 0 0;
 }
